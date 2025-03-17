@@ -1,3 +1,3 @@
 # TimeSeriesDataProcessing
 
-A hybrid C++11 and Python-based system for efficient large-scale time series data processing, utilizing optimized algorithms for numerical and scientific computing.
+A hybrid C++ and Python software for efficient time series analysis and forecasting, designed for high-performance computing and large-scale data processing.
